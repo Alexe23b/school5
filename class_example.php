@@ -20,7 +20,7 @@ class MainExample
 
     public function publicMethod($param)
     {
-
+        //alexe23b
     }
 
     protected function protectedMethod()
